@@ -1,2 +1,2 @@
 # moving-big-data
-Building data pipelines for moving Big Data
+Building data pipelines on AWS for moving Big Data
